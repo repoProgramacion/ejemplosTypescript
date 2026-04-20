@@ -1,3 +1,6 @@
+// Esta línea convierte el archivo en módulo y evita colisiones globales.
+export {};
+
 // Este tipo declara la forma de una operación matemática reutilizable.
 type Operation = (a: number, b: number) => number;
 

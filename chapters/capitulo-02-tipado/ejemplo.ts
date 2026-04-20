@@ -1,3 +1,6 @@
+// Esta línea convierte el archivo en módulo y evita colisiones globales.
+export {};
+
 // Este alias modela un identificador que puede ser texto o número.
 type StudentId = string | number;
 

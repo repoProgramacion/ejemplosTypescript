@@ -6,15 +6,19 @@ Este capítulo explica cómo modelar contratos para objetos y servicios.
 
 Una interface describe la forma que debe cumplir un valor. Es ideal para objetos, servicios y clases que implementan contratos.
 
-## Qué practica el ejemplo
+## Qué practica este capítulo
 
 - Interfaces de objetos.
 - Interfaces con métodos.
 - `implements`.
 - Extensión de contratos.
+- Interfaces para funciones.
+- Unión entre interfaces y clases de servicio.
 
-## Cómo ejecutarlo
+## Archivos incluidos
 
 ```bash
 bun run chapters/capitulo-08-interfaces/ejemplo.ts
+bun run chapters/capitulo-08-interfaces/funciones-e-implementaciones.ts
+bun run chapters/capitulo-08-interfaces/extensiones.ts
 ```

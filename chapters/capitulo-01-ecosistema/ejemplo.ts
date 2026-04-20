@@ -1,3 +1,6 @@
+// Esta línea convierte el archivo en módulo y evita colisiones globales.
+export {};
+
 // Esta constante guarda el nombre del runtime usado en el tutorial.
 const runtime = "Bun";
 

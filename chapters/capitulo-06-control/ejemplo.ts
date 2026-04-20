@@ -1,3 +1,6 @@
+// Esta línea convierte el archivo en módulo y evita colisiones globales.
+export {};
+
 // Este tipo define tres posibles estados del sistema.
 type RequestState =
   // Esta variante representa una carga activa.

@@ -1,3 +1,6 @@
+// Esta línea convierte el archivo en módulo y evita colisiones globales.
+export {};
+
 // Esta interface modela la base común de entidades persistentes.
 interface BaseEntity {
   // Esta propiedad identifica la entidad y no puede cambiar.

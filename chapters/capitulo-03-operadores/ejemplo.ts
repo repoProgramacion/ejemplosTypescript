@@ -1,3 +1,6 @@
+// Esta línea convierte el archivo en módulo y evita colisiones globales.
+export {};
+
 // Este tipo define el formato de una rúbrica simple.
 type Rubric = {
   // Esta propiedad guarda el nombre de la actividad.

@@ -1,3 +1,6 @@
+// Esta línea convierte el archivo en módulo y evita colisiones globales.
+export {};
+
 // Este arreglo contiene calificaciones de ejemplo.
 const grades = [4.5, 2.9, 3.8, 5.0];
 

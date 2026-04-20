@@ -1,3 +1,6 @@
+// Esta línea convierte el archivo en módulo y evita colisiones globales.
+export {};
+
 // Esta clase abstracta define el contrato de toda figura académica del capítulo.
 abstract class Figure {
   // Este constructor guarda el color como propiedad de solo lectura.
